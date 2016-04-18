@@ -1,2 +1,2 @@
 # ProjectKit
-Project related with sharing kits around the Andean Region
+Project related with building/sharing kits around the Andean Region
